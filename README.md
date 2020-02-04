@@ -1,2 +1,2 @@
 # fredich.github.io
-My Portfolio
+Portfolio
